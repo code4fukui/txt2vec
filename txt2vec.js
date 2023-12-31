@@ -1,5 +1,5 @@
-import { txt2vec } from "./Embedding.js";
-import { IEEE32 } from "./IEEE32.js";
+import { txt2vec } from "./ADA002.js";
+import { IEEE32 } from "https://code4fukui.github.io/IEEE754/IEEE32.js";
 import { Base64URL } from "https://code4fukui.github.io/Base64URL/Base64URL.js";
 
 if (Deno.args.length == 0) {
