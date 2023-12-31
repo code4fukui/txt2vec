@@ -1,4 +1,4 @@
-import { txt2vec } from "./Embedding.js";
+import { txt2vec } from "./ADA002.js";
 
 const input = [
   "西武ライオンズとふわっちコラボ、始球式動画＆ARで体験する時速160km投球",
